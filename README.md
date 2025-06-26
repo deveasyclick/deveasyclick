@@ -38,8 +38,20 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react" />
   <img src="https://skillicons.dev/icons?i=nodejs,golang,ts,nestjs,expressjs" />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,git" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,firebase,githubaction,cicd" />
 </p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=deveasyclick&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Deveasyclick's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=deveasyclick&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Deveasyclick's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=deveasyclick&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Deveasyclick's Most Used Languages" />
+</div>
 
 <hr>
