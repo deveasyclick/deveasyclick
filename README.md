@@ -4,5 +4,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/deveasyclick/deveasyclick/blob/main/easyclick_logo.png" alt="Easy Click Logo">
+  <img src="https://github.com/deveasyclick/deveasyclick/blob/main/coding_anime.png" alt="Easy Click Logo">
 </div>
