@@ -30,3 +30,16 @@
 </div>
 
 <hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react" />
+  <img src="https://skillicons.dev/icons?i=nodejs,golang,ts,nestjs,expressjs,chi,gorm,mongoose" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mongoose,typeorm,prisma,redis" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,firebase,githubaction,cicd" />
+</p>
+
+<hr>
