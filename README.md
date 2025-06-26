@@ -12,7 +12,7 @@
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 💬 Ask me about **Node.js, Golang, Typescript,  React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
 
 <br>
 
