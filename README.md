@@ -10,10 +10,12 @@
 </h1>
 </div>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### A full-stack software engineer based in Lagos, Nigeria. I'm passionate about building beautiful, functional, and user-centric web applications.
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 - 💬 Ask me about **Node.js, Golang, Typescript,  React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 🔭 I’m currently a Graduate of computer science at Federal University of Technology, Akure
+
 
 <br>
 
@@ -41,9 +43,42 @@
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,git" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,firebase,githubaction,cicd" />
 </p>
-
 <hr>
 
+## 💼 Work Projects
+<!-- start work project section -->
+<details>
+<summary><b> My Work Project :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://tilvio.vercel.app'>Tilvio</a></td>
+      <td>Golang,Chi,React,Typescript,Postgres</td>
+      <td>Tilvio helps you browse, compare, and order tiles online with ease.</td>
+    </tr>
+    <tr>
+      <td><a href='https://leaps-uk.web.app'>Leaps</a></td>
+      <td>React,Nodejs,Typescript,Firebase</td>
+      <td>Admin dashboard for uploading and managing study resources for leaps mobile app</td>
+    </tr>
+    <tr>
+      <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">CodeEditor</a></td>
+      <td>HTML,CSS,Javascript</td>
+      <td>write html cod here and the result will display there</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end work project section -->
+
+<hr>
 ## ⚡️ Stats
 
 <br>
