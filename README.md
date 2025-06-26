@@ -2,7 +2,7 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/deveasyclick/count.svg" alt="Visitor's Count" />
 
-    <!-- Banner -->
+    <!-- 🎧 -->
    <img src="https://github.com/deveasyclick/deveasyclick/blob/main/coding_anime.png" alt="Easy Click Logo">
 
    <h1 align="center">
@@ -67,11 +67,6 @@
       <td><a href='https://leaps-uk.web.app'>Leaps</a></td>
       <td>React,Nodejs,Typescript,Firebase</td>
       <td>Admin dashboard for uploading and managing study resources for leaps mobile app</td>
-    </tr>
-    <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">CodeEditor</a></td>
-      <td>HTML,CSS,Javascript</td>
-      <td>write html cod here and the result will display there</td>
     </tr>
   </tbody>
 </table>
