@@ -32,11 +32,13 @@
 </div>
 
 <hr>
-
+<!--
 ## 🛠️ Languages and Tools
-
+-->
+<!--
 <br>
-
+-->
+<!--
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react" />
   <img src="https://skillicons.dev/icons?i=nodejs,golang,ts,nestjs,expressjs" />
@@ -44,6 +46,7 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,firebase,githubaction,cicd" />
 </p>
 <hr>
+-->
 
 ## 💼 Work Projects
 <!-- start work project section -->
