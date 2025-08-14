@@ -74,16 +74,15 @@
 <!-- end work project section -->
 
 <hr>
-## ⚡️ Stats
-
-<br>
-
+<!--
+⚡️ Stats
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=deveasyclick&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Deveasyclick's GitHub Stats" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=deveasyclick&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Deveasyclick's Most Used Languages" />
 </div>
-
 <hr>
+-->
+
 ## 🐍 My Contributions
 
 <div align="center">
