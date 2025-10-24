@@ -48,9 +48,9 @@
 <hr>
 -->
 
-## 💼 Work Projects
+
 <!-- start work project section -->
-<details>
+<!-- <details>
 <summary><b> My Work Project :point_right:</b></summary>
 <table>
   <thead>
@@ -73,7 +73,7 @@
     </tr>
   </tbody>
 </table>
-</details>
+</details> -->
 <!-- end work project section -->
 
 <hr>
