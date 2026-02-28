@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>7+ years shipping production systems end-to-end — from database schema to UI to Datadog.</strong><br/>
+  <strong>7+ years shipping production systems end-to-end.</strong><br/>
   Early engineer at a YC-backed startup scaled from MVP to acquisition. Passionate about payments, performance, and developer tooling.
 </p>
 
@@ -94,8 +94,12 @@ I'm a Senior Full-Stack Software Engineer based in Nigeria, specializing in **pa
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=deveasyclick&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Yusuf's GitHub Stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveasyclick&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+  <img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deveasyclick&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&hide_border=true" alt="Yusuf's GitHub Stats" />
+  <img width="325" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=deveasyclick&theme=tokyonight&layout=donut&hide=css&langs_count=8&hide_border=true" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=deveasyclick&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -114,7 +118,7 @@ I'm a Senior Full-Stack Software Engineer based in Nigeria, specializing in **pa
 
 <div align="center">
   <p>
-    <img src="https://profile-counter.glitch.me/deveasyclick/count.svg" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=deveasyclick&style=for-the-badge&color=4493F8&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
   <p><em>Open to remote full-stack or backend engineering roles — <a href="mailto:ydeniyi@gmail.com">let's talk</a>.</em></p>
 </div>
