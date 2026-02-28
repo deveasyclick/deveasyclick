@@ -1,92 +1,106 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/deveasyclick/count.svg" alt="Visitor's Count" />
-
-    <!-- 🎧 -->
-   <img src="https://github.com/deveasyclick/deveasyclick/blob/main/coding_anime.png" alt="Easy Click Logo">
-
-   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Yusuf+Adeniyi!;" />
-</h1>
-</div>
-
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
-
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Node.js, Golang, Typescript,  React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
-- 🔭 I’m currently a Graduate of computer science at Federal University of Technology, Akure
-
-
-<br>
-
 <div align="center">
-  <a href="ydeniyi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+
+<img src="https://github.com/deveasyclick/deveasyclick/blob/main/coding_anime.png" alt="Yusuf Adeniyi" width="120" style="border-radius: 50%;" />
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=60&color=4493F8&duration=4000&lines=Hey,+I'm+Yusuf+Adeniyi+👋;Senior+Full-Stack+Engineer;Node.js+•+Go+•+React+•+TypeScript" />
+</h1>
+
+<p align="center">
+  <strong>7+ years shipping production systems end-to-end — from database schema to UI to Datadog.</strong><br/>
+  Early engineer at a YC-backed startup scaled from MVP to acquisition. Passionate about payments, performance, and developer tooling.
+</p>
+
+<p align="center">
+  <a href="mailto:ydeniyi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yusuf-adeniyi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/easyclick001" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-</div>
-
-<hr>
-<!--
-## 🛠️ Languages and Tools
--->
-<!--
-<br>
--->
-<!--
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react" />
-  <img src="https://skillicons.dev/icons?i=nodejs,golang,ts,nestjs,expressjs" />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,git" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,firebase,githubaction,cicd" />
 </p>
-<hr>
--->
 
-
-<!-- start work project section -->
-<!-- <details>
-<summary><b> My Work Project :point_right:</b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href='https://tilvio.vercel.app'>Tilvio</a></td>
-      <td>Golang,Chi,React,Typescript,Postgres</td>
-      <td>Tilvio helps you browse, compare, and order tiles online with ease.</td>
-    </tr>
-    <tr>
-      <td><a href='https://leaps-uk.web.app'>Leaps</a></td>
-      <td>React,Nodejs,Typescript,Firebase</td>
-      <td>Admin dashboard for uploading and managing study resources for leaps mobile app</td>
-    </tr>
-  </tbody>
-</table>
-</details> -->
-<!-- end work project section -->
-
-<hr>
-<!--
-⚡️ Stats
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=deveasyclick&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Deveasyclick's GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=deveasyclick&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Deveasyclick's Most Used Languages" />
 </div>
-<hr>
--->
 
-## 🐍 My Contributions
+---
+
+## 🚀 About Me
+
+I'm a Senior Full-Stack Software Engineer based in Nigeria, specializing in **payment systems**, **high-throughput APIs**, and **real-time applications**. I thrive in fast-moving startup environments where I own features from conception through production debugging.
+
+- 💼 Currently **Senior Software Engineer @ Elite Africa** — building on-chain payment & wallet infrastructure
+- 🏗️ Former first engineering hire at **Goodkind** (YC-backed) — scaled from MVP to acquisition
+- 🔧 Building [**billpay-sdk**](https://github.com/deveasyclick) — a unified Node.js SDK abstracting Interswitch & VTPass
+- 📦 Passionate about **developer tooling**, **distributed systems**, and **fintech infrastructure**
+- 🌍 Open to remote opportunities with high-impact teams
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,mongodb,prisma" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,git" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧾 <a href="https://github.com/deveasyclick/billpay">BillPay</a></h3>
+      <p>Full-stack bill payment platform — airtime, data, electricity, TV subscriptions. Built with NestJS, Next.js, BullMQ, Redis, and PostgreSQL. Integrates Interswitch & VTPass with retry/reconciliation workflows.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Live-billpay--frontend.vercel.app-brightgreen?style=flat" />
+    </td>
+    <td width="50%">
+      <h3>🏢 <a href="https://github.com/deveasyclick/openb2b">OpenB2B</a></h3>
+      <p>Open-source multi-tenant ordering & invoicing platform for small wholesalers — manage products, process orders, and track invoices. Built with Go, PostgreSQL, and React.</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔗 <a href="https://github.com/deveasyclick/url-shortner">URL Shortener</a></h3>
+      <p>Fast, simple, and secure URL shortener built with Go, PostgreSQL, GORM, Docker, and Tailwind CSS. Demonstrates clean Go API design and containerized deployment.</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>📦 BillPay SDK <em>(coming soon)</em></h3>
+      <p>A unified Node.js/TypeScript SDK abstracting Interswitch and VTPass behind a single interface — with provider fallback, retry logic, and normalized response types. Publishing to npm.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
+      <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=deveasyclick&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Yusuf's GitHub Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveasyclick&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+</div>
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -96,4 +110,11 @@
   </picture>
 </div>
 
-<hr>
+---
+
+<div align="center">
+  <p>
+    <img src="https://profile-counter.glitch.me/deveasyclick/count.svg" alt="Visitor Count" />
+  </p>
+  <p><em>Open to remote full-stack or backend engineering roles — <a href="mailto:ydeniyi@gmail.com">let's talk</a>.</em></p>
+</div>
