@@ -95,7 +95,7 @@ I'm a Senior Full-Stack Software Engineer based in Nigeria, specializing in **pa
 
 <div align="center">
   <img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deveasyclick&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&hide_border=true" alt="Yusuf's GitHub Stats" />
-  <img width="325" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=deveasyclick&theme=tokyonight&layout=donut&hide=css&langs_count=8&hide_border=true" alt="Most Used Languages" />
+  <img width="325" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=deveasyclick&theme=tokyonight&layout=donut&hide=css,php,c%2B%2B,c,shell,dockerfile,html,scss&langs_count=6&hide_border=true&exclude_repo=deveasyclick" alt="Most Used Languages" />
 </div>
 
 <div align="center">
