@@ -33,9 +33,8 @@ I'm a Senior Full-Stack Software Engineer based in Nigeria, specializing in **pa
 
 - 💼 Currently **Senior Software Engineer @ Elite Africa** — building on-chain payment & wallet infrastructure
 - 🏗️ Former first engineering hire at **Goodkind** (YC-backed) — scaled from MVP to acquisition
-- 🔧 Building [**billpay-sdk**](https://github.com/deveasyclick) — a unified Node.js SDK abstracting Interswitch & VTPass
+- 🔧 Building [**billa**](https://github.com/deveasyclick) — a unified Node.js SDK abstracting Interswitch & VTPass
 - 📦 Passionate about **developer tooling**, **distributed systems**, and **fintech infrastructure**
-- 🌍 Open to remote opportunities with high-impact teams
 
 ---
 
@@ -111,13 +110,4 @@ I'm a Senior Full-Stack Software Engineer based in Nigeria, specializing in **pa
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveasyclick/deveasyclick/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/deveasyclick/deveasyclick/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
----
-
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=deveasyclick&style=for-the-badge&color=4493F8&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
-  <p><em>Open to remote full-stack or backend engineering roles — <a href="mailto:ydeniyi@gmail.com">let's talk</a>.</em></p>
 </div>
