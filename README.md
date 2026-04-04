@@ -79,7 +79,7 @@ I'm a Senior Full-Stack Software Engineer based in Nigeria, specializing in **pa
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
     </td>
     <td width="50%">
-      <h3>📦 <a href="https://github.com/deveasyclick/billa">Billa</a></h3>
+      <h3>📦 <a href="https://github.com/deveasyclick/billpay-sdk">Billpay SDK</a></h3>
       <p>A unified Node.js/TypeScript SDK abstracting Interswitch and VTPass behind a single interface</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
