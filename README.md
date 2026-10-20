@@ -1,113 +1,53 @@
-<div align="center">
+<img align="right" src="./portrait.png" alt="Portrait of Yusuf Adeniyi" width="150" />
 
-<img src="https://github.com/deveasyclick/deveasyclick/blob/main/coding_anime.png" alt="Yusuf Adeniyi" width="120" style="border-radius: 50%;" />
+# Yusuf Adeniyi
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=60&color=4493F8&duration=4000&lines=Hey,+I'm+Yusuf+Adeniyi+👋;Senior+Full-Stack+Engineer;Node.js+•+Go+•+React+•+TypeScript" />
-</h1>
+**Senior Full-Stack Engineer · Go, TypeScript & Node.js**
 
-<p align="center">
-  <strong>7+ years shipping production systems end-to-end.</strong><br/>
-  Early engineer at a YC-backed startup scaled from MVP to acquisition. Passionate about payments, performance, and developer tooling.
-</p>
+I build reliable products across the stack, with a focus on payments, backend architecture, and developer tools. Based in Nigeria, with 7+ years of experience taking products from early ideas into production.
 
-<p align="center">
-  <a href="mailto:ydeniyi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yusuf-adeniyi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/easyclick001" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+[Portfolio](https://www.yusufadeniyi.dev/) · [LinkedIn](https://www.linkedin.com/in/yusuf-adeniyi/) · [Email](mailto:ydeniyi@gmail.com) · [Articles](https://dev.to/easyclick)
 
-</div>
+## Selected company contributions
 
----
+These are contributions in employed roles, separate from the independent projects below.
 
-## 🚀 About Me
+| Company & role | Period | Selected contributions |
+| --- | --- | --- |
+| **Elite Africa** · Senior Software Engineer | Aug 2025–Present | Built a billing engine with smart fallback that reduced failed payments by **20%**, and a crypto-to-Naira off-ramp with **99% transaction success**. |
+| **Goodkind** · Senior Software Engineer | Feb 2022–Jan 2025 | First engineering hire; helped take the product from MVP to acquisition. Shipped a caption-editing tool used by **100,000+ users**, reducing caption errors by **50%**. |
+| **Tilvio** · Senior Software Engineer | Jan 2025–Jul 2025 | Built high-throughput Go and Node.js APIs and real-time fulfillment dashboards; improved API response times by **30%** through SQL optimization and Redis caching. |
 
-I'm a Senior Full-Stack Software Engineer based in Nigeria, specializing in **payment systems**, **high-throughput APIs**, and **real-time applications**. I thrive in fast-moving startup environments where I own features from conception through production debugging.
+## Independent projects
 
-- 💼 Currently **Senior Software Engineer @ Elite Africa** — building on-chain payment & wallet infrastructure
-- 🏗️ Former first engineering hire at **Goodkind** (YC-backed) — scaled from MVP to acquisition
-- 🔧 Building [**billa**](https://github.com/deveasyclick) — a unified Node.js SDK abstracting Interswitch & VTPass
-- 📦 Passionate about **developer tooling**, **distributed systems**, and **fintech infrastructure**
+| Project | What it demonstrates | Explore |
+| --- | --- | --- |
+| **[Iwifunni Notifications](https://github.com/deveasyclick/iwifunni)** | Multi-tenant notification infrastructure with Go, PostgreSQL, Redis, and asynchronous delivery across email, SMS, and push. | [Website](https://iwifunni.cc) · [Engineering notes](https://github.com/deveasyclick/iwifunni/blob/docs/profile-presentation/docs/engineering-notes.md) |
+| **[BillPay SDK](https://github.com/deveasyclick/billpay-sdk)** | A stateless TypeScript interface over Interswitch and VTPass, with explicit provider selection and failover. | [npm: billpay](https://www.npmjs.com/package/billpay) · [Engineering notes](https://github.com/deveasyclick/billpay-sdk/blob/docs/profile-presentation/docs/engineering-notes.md) |
+| **[GitX](https://github.com/deveasyclick/gitx)** | An AI-powered Go CLI for commit messages, pull request descriptions, and changelogs, with user confirmation before committing. | [Engineering notes](https://github.com/deveasyclick/gitx/blob/docs/profile-presentation/docs/engineering-notes.md) |
+| **[Feature Flags](https://github.com/deveasyclick/feature-flags)** | Environment-specific feature configuration, user targeting, gradual rollouts, and audit history with Next.js, Hono, and PostgreSQL. | [Architecture](https://github.com/deveasyclick/feature-flags/blob/main/docs/architecture.md) |
+| **[Zendo](https://github.com/deveasyclick/zendo)** | A customer support platform combining a Next.js dashboard, an embeddable widget, and a Go backend. | [Source](https://github.com/deveasyclick/zendo) |
+| **[OpenB2B](https://github.com/deveasyclick/openb2b)** | Multi-tenant ordering and invoicing for small wholesalers, using Go, PostgreSQL, and React. | [Demo](https://openb2b-web.vercel.app) |
+| **[BillPay](https://github.com/deveasyclick/billpay)** | A full-stack bill payment platform with provider routing, background retries, and reconciliation. Separate from the reusable BillPay SDK. | [Demo](https://billspay.vercel.app) |
 
----
+The feature-management repository currently uses the Iwifunni name internally; it is a separate codebase from Iwifunni Notifications.
 
-## 🛠️ Tech Stack
+## Engineering focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,postgres,redis,mongodb,prisma" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,git" />
-</p>
+- **Reliable backends:** API design, payment integrations, asynchronous queues, caching, and production debugging.
+- **Product ownership:** working across backend systems and the interfaces people use.
+- **Developer experience:** typed contracts, reusable SDKs, command-line tools, and clear documentation.
 
----
+- **Languages:** TypeScript, JavaScript, Go
+- **Backend:** Node.js, NestJS, Chi, GraphQL, gRPC, WebSockets, message queues
+- **Frontend:** React, Next.js, Vite, Tailwind CSS
+- **Data & infrastructure:** PostgreSQL, MongoDB, Redis, AWS, Docker, Nginx, GitHub Actions, Datadog
 
-## 📌 Featured Projects
+## Writing
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧾 <a href="https://github.com/deveasyclick/billpay">BillPay</a></h3>
-      <p>Full-stack bill payment platform — airtime, data, electricity, TV subscriptions. Built with NestJS, Next.js, BullMQ, Redis, and PostgreSQL. Integrates Interswitch & VTPass with retry/reconciliation workflows.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Live-billpay--frontend.vercel.app-brightgreen?style=flat" />
-    </td>
-    <td width="50%">
-      <h3>🏢 <a href="https://github.com/deveasyclick/openb2b">OpenB2B</a></h3>
-      <p>Open-source multi-tenant ordering & invoicing platform for small wholesalers — manage products, process orders, and track invoices. Built with Go, PostgreSQL, and React.</p>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔗 <a href="https://github.com/deveasyclick/url-shortner">URL Shortener</a></h3>
-      <p>Fast, simple, and secure URL shortener built with Go, PostgreSQL, GORM, Docker, and Tailwind CSS. Demonstrates clean Go API design and containerized deployment.</p>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3>📦 <a href="https://github.com/deveasyclick/billpay-sdk">Billpay SDK</a></h3>
-      <p>A unified Node.js/TypeScript SDK abstracting Interswitch and VTPass behind a single interface</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
-    </td>
-  </tr>
-</table>
+- [Designing for failure: building reliable crypto-to-utility payments with provider failover](https://dev.to/easyclick/designing-for-failure-building-reliable-crypto-to-utility-payments-with-provider-failover-3jck)
+- [My Git workflow and essential commands](https://dev.to/easyclick/my-git-workflow-and-essential-commands-2plj)
 
----
+## Get in touch
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deveasyclick&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&hide_border=true" alt="Yusuf's GitHub Stats" />
-  <img width="325" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=deveasyclick&theme=tokyonight&layout=donut&hide=css,php,c%2B%2B,c,shell,dockerfile,html,scss&langs_count=6&hide_border=true&exclude_repo=deveasyclick" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=deveasyclick&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveasyclick/deveasyclick/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveasyclick/deveasyclick/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/deveasyclick/deveasyclick/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+Building a product or untangling a backend problem? Reach me at **[ydeniyi@gmail.com](mailto:ydeniyi@gmail.com)**.
