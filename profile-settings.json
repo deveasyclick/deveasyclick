@@ -1,0 +1,118 @@
+{
+  "bio": "Senior Full-Stack Engineer | Go, TypeScript & Node.js | Payments, reliable APIs & developer tools | Building products end to end",
+  "website": "https://www.yusufadeniyi.dev/",
+  "pins": [
+    "gitx",
+    "iwifunni",
+    "billpay-sdk",
+    "feature-flags",
+    "zendo",
+    "openb2b"
+  ],
+  "repositories": {
+    "gitx": {
+      "description": "AI-powered Go CLI for commit messages, pull request descriptions, and changelogs.",
+      "homepage": null,
+      "topics": [
+        "golang",
+        "cli",
+        "developer-tools",
+        "git",
+        "ai"
+      ]
+    },
+    "iwifunni": {
+      "description": "Multi-tenant notification infrastructure for email, SMS, and push with Go and Redis-backed queues.",
+      "homepage": "https://iwifunni.cc",
+      "topics": [
+        "golang",
+        "notifications",
+        "multitenant-applications",
+        "redis",
+        "nextjs"
+      ]
+    },
+    "billpay-sdk": {
+      "description": "Stateless Node.js/TypeScript SDK for Interswitch and VTPass, with explicit provider routing and failover.",
+      "homepage": "https://www.npmjs.com/package/billpay",
+      "topics": [
+        "typescript",
+        "nodejs",
+        "sdk",
+        "payments",
+        "interswitch",
+        "vtpass"
+      ]
+    },
+    "feature-flags": {
+      "description": "Iwifunni feature management: environment configuration, targeting, gradual rollouts, and audit history.",
+      "homepage": null,
+      "topics": [
+        "feature-flags",
+        "progressive-delivery",
+        "typescript",
+        "nextjs",
+        "hono",
+        "postgresql"
+      ]
+    },
+    "zendo": {
+      "description": "Customer support platform with a Next.js dashboard, embeddable chat widget, and Go backend.",
+      "homepage": null,
+      "topics": [
+        "customer-support",
+        "golang",
+        "nextjs",
+        "chat",
+        "postgresql"
+      ]
+    },
+    "openb2b": {
+      "description": "Multi-tenant ordering and invoicing platform for small wholesalers, built with Go, PostgreSQL, and React.",
+      "homepage": "https://openb2b-web.vercel.app",
+      "topics": [
+        "business",
+        "modular-architecture",
+        "multitenant-applications",
+        "golang",
+        "react",
+        "postgresql",
+        "invoicing",
+        "b2b"
+      ]
+    },
+    "billpay": {
+      "description": "Full-stack bill payment application with NestJS, Next.js, PostgreSQL, and queue-backed reconciliation.",
+      "homepage": "https://billspay.vercel.app",
+      "topics": [
+        "typescript",
+        "nestjs",
+        "nextjs",
+        "payments",
+        "bullmq",
+        "redis"
+      ]
+    },
+    "portfolio": {
+      "description": "Yusuf Adeniyi\u2019s product engineering portfolio: shared content, product and editorial designs, and dark mode.",
+      "homepage": "https://www.yusufadeniyi.dev",
+      "topics": [
+        "portfolio",
+        "nextjs",
+        "typescript",
+        "accessibility",
+        "dark-mode"
+      ]
+    },
+    "deveasyclick": {
+      "description": "Yusuf Adeniyi \u2014 senior full-stack engineer working on payments, reliable APIs, and developer tools.",
+      "homepage": "https://www.yusufadeniyi.dev",
+      "topics": [
+        "github-profile",
+        "portfolio",
+        "golang",
+        "typescript"
+      ]
+    }
+  }
+}
